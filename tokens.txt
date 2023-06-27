@@ -1,0 +1,47 @@
+inicio PR1
+fin NAV
+escribe BBS
+captura COM
+si NBT
+entonces NOM
+sino SEO
+fin si LEN
+acaso OVA
+casa OER
+ninguno GAM
+fin caso BYZ
+desde DPT
+hasta UTA
+intervalo UNI
+haz ZTP
+mientras SOR
+finhaz RUT
+ejecuta RDL
+( DKB
+() DKY
+) PHN
+{ WLZ
+} ALT
+: AIDM
+. HDZ
+[ AWZ
+] LOL
+; TES
+identificadores ALU
+constantes_numericas MIN
+comentarios NZO
+cadenas SUN
++ GTX
+- XOX
+* AND
+/ CRU
+^ ZRO
+> CAD
+< AUT
+<= EXT
+>= YOV
+<> WEL
+and_& WOV
+or_~ BLO
+not_! LUB
+---
